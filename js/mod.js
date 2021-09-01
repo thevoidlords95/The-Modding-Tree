@@ -1,8 +1,8 @@
 let modInfo = {
 	name: "The Death Tree",
-	id: "thedeathmod",
-	author: "bluepig555 aka thevoidlords95",
-	pointsName: "deathss",
+	id: "mymod",
+	author: "nobody",
+	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
